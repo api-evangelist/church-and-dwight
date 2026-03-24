@@ -1,0 +1,7 @@
+aid: church-and-dwight
+url: https://raw.githubusercontent.com/api-evangelist/church-and-dwight/refs/heads/main/apis.yml
+modified: '2026-03-23'
+apis: []
+common:
+  - type: Website
+    url: https://www.church-and-dwight.com
