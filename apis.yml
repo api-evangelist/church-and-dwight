@@ -1,7 +1,12 @@
 aid: church-and-dwight
-url: https://raw.githubusercontent.com/api-evangelist/church-and-dwight/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/church-and-dwight/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.church-and-dwight.com
+description: >-
+  Church & Dwight is a manufacturer and marketer of household, personal care, and
+  specialty products under brands including Arm & Hammer, Trojan, OxiClean, Spinbrush,
+  First Response, Nair, Orajel, and Vitafusion.
