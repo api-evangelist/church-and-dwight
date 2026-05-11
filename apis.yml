@@ -140,6 +140,10 @@ common:
       - name: Beauty and Hair Care Product Distribution
       - name: Specialty Animal Nutrition and Chemicals
       - name: Sodium Bicarbonate Industrial Supply (Arm and Hammer)
+  - type: Integrations
+    url: https://churchdwight.com/integrations
+integrations:
+  - name: Church & Dwight Co., Inc.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
