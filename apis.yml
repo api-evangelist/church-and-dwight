@@ -86,7 +86,7 @@ common:
     url: https://www.batistehair.com
   - type: Waterpik
     url: https://www.waterpik.com
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://churchdwight.com/terms-of-use/
   - type: PrivacyPolicy
     url: https://churchdwight.com/privacy-policy/
