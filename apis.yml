@@ -46,6 +46,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/church-and-dwight-domain-security.yml
   - type: Website
     url: https://churchdwight.com
   - type: AboutUs
