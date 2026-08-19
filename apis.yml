@@ -54,7 +54,7 @@ tags:
   - Vitafusion
 created: '2026-03-23'
 modified: '2026-04-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
