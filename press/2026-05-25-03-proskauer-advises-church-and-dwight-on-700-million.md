@@ -1,7 +1,9 @@
 ---
 title: Proskauer Advises Church & Dwight on $700 million ...
 url: https://www.proskauer.com/release/proskauer-advises-church-and-dwight-on-700-million-acquisition-of-touchland
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Church & Dwight" press release artificial intelligence'
 position: 3
 source: serpapi-google
