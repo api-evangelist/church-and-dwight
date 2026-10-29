@@ -1,4 +1,4 @@
-# Church and Dwight (church-and-dwight)
+# Church and Dwight
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,47 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Church & Dwight Co., Inc. is a Fortune 500 American consumer packaged goods (CPG) company headquartered in Princeton, New Jersey, that manufactures and markets a portfolio of household, personal care, health and wellness, beauty, and specialty products. Best known as the parent company of the Arm & Hammer baking soda brand (the company's flagship since 1846), Church & Dwight owns 20+ leading consumer brands.
+Church & Dwight Co., Inc. is a Fortune 500 American consumer packaged goods (CPG) company headquartered in Princeton, New Jersey, that manufactures and markets a portfolio of household, personal care, health and wellness, beauty, and specialty products. Best known as the parent company of the Arm & Hammer baking soda brand (the company's flagship since 1846), Church & Dwight operates through three reporting segments: Consumer Domestic, Consumer International, and Specialty Products Division. The company's brand portfolio includes Arm & Hammer, Trojan, OxiClean, Vitafusion, L'il Critters, Therabreath, Hero (Mighty Patch), Batiste, Waterpik, OraJel, Nair, Spinbrush, First Response, RepHresh, Zicam, Flawless, Toppik, Viviscal, Kaboom, Orange Glo, XTRA laundry detergent, and Arrid antiperspirant. Church & Dwight does not currently publish a public consumer-facing developer API; partner integrations are managed through internal portals, and consumer experiences focus on brand websites, e-commerce direct-to-consumer storefronts, and the Innovation Portal for external R&D partnerships.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/church-and-dwight/refs/heads/main/apis.yml)
+**Areas:** Arm and Hammer · Beauty · Cleaning Products · Consumer Packaged Goods · Dental Care · Family Planning · Fortune 500 · Health and Wellness · Household Products · Laundry · OxiClean · Personal Care
 
-## Scope
+## Church and Dwight on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Church and Dwight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/church-and-dwight/](https://apis.io/providers/church-and-dwight/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Arm and Hammer, Beauty, Cleaning Products, Consumer Packaged Goods, CPG, Dental Care, Family Planning, Fortune 500, Health and Wellness, Household Products, Laundry, OxiClean, Personal Care, Specialty Products, Trojan, Vitafusion
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Church And Dwight Domain Security](https://apis.io/security/church-and-dwight/church-and-dwight-domain-security/)
 
-No public APIs have been documented yet. Church & Dwight does not currently publish a public consumer-facing developer API; partner integrations are managed through internal portals.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://churchdwight.com)
-- [About Us](https://churchdwight.com/about/)
-- [Brands](https://churchdwight.com/brands/)
-- [Innovation Portal](https://churchdwightinnovation.com)
-- [Investor Relations](https://investor.churchdwight.com)
-- [Careers](https://careers.churchdwight.com)
-- [Newsroom](https://churchdwight.com/news/)
-- [Sustainability](https://churchdwight.com/sustainability/)
-- [Arm and Hammer](https://www.armandhammer.com)
-- [Trojan](https://www.trojanbrands.com)
-- [OxiClean](https://www.oxiclean.com)
-- [Vitafusion](https://www.vitafusion.com)
-- [Privacy Policy](https://churchdwight.com/privacy-policy/)
+- [Terms of service](https://churchdwight.com/terms-of-use/)
+- [Privacy policy](https://churchdwight.com/privacy-policy/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/church-and-dwight/](https://apis.io/providers/church-and-dwight/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Church and Dwight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/church-and-dwight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
